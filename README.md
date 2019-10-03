@@ -25,12 +25,14 @@ Como usar?
 ----------
 
 É só incluir o seguinte código antes de fechar a tag body:
-
-    <script defer src="http://sawpf.com/1.0.js"></script>
-
+```html
+<script defer src="http://sawpf.com/1.0.js"></script>
+```
 
 Exemplo de utilização
 ---------------------
+
+```html
 
     <!DOCTYPE html>
     <html lang="pt-BR">
@@ -44,3 +46,4 @@ Exemplo de utilização
         <script defer src="http://sawpf.com/1.0.js"></script>
       </body>
     </html>
+```
